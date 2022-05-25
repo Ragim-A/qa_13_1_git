@@ -7,6 +7,7 @@ public class firstTest {
     @Test
     void firsttest() {
         Assertions.assertTrue(3>=2);
+
     }
     @Test
     void secondtest() {
